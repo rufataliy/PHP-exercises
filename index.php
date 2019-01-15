@@ -29,7 +29,7 @@ echo "<hr style=\"margin 1rem 0\">";
 +---+
 Print the following sentence as a paragraph: PHP stands for "Hypertext Preprocessor"!
 */
-echo '<p>PHP Stands for "Hypertext Preprocessor"<p>';
+echo '<p>PHP Stands for "Hypertext Preprocessor"</p>';
 
 
 // task separator
